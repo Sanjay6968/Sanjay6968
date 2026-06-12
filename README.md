@@ -9,7 +9,7 @@ Passionate about building scalable applications and data-driven solutions throug
 * Full Stack & AI Engineering Intern @ Mekuva Technologies
 * Full Stack Developer Intern @ Ethnus
 
-### 🛠️ Skills
+###  Skills
 
 **Languages**
 
@@ -43,7 +43,7 @@ Passionate about building scalable applications and data-driven solutions throug
 
 Graph Neural Networks (GNNs), Advanced Machine Learning, System Design, Cloud Technologies
 
-📫 Reach me:
+ Reach me:
 
 * LinkedIn: [www.linkedin.com/in/m-bhupathi-sanjay-405378252](http://www.linkedin.com/in/m-bhupathi-sanjay-405378252)
 * Email: [bupathisan3@gmail.com](mailto:bupathisan3@gmail.com)
