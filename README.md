@@ -1,16 +1,49 @@
-## Hi there 👋
+# Hi  I'm Bhupathi Sanjay
 
-<!--
-**Sanjay6968/Sanjay6968** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ Data Scientist | Full Stack Developer | ML Engineer
 
-Here are some ideas to get you started:
+Passionate about building scalable applications and data-driven solutions through Machine Learning, Data Science, and Full Stack Development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###  Experience
+
+* Full Stack & AI Engineering Intern @ Mekuva Technologies
+* Full Stack Developer Intern @ Ethnus
+
+### 🛠️ Skills
+
+**Languages**
+
+* Python, JavaScript, TypeScript, Java, SQL
+
+**Data Science & Machine Learning**
+
+* Scikit-learn, TensorFlow, PyTorch, Deep Learning
+* EDA, Feature Engineering, Statistical Analysis
+* Regression, Classification, Clustering
+* Model Evaluation & Cross-Validation
+
+**Frontend**
+
+* React.js, Next.js, Redux, HTML5, CSS3
+
+**Backend**
+
+* Node.js, Express.js, Flask, FastAPI
+* REST APIs, GraphQL
+
+**Databases**
+
+* PostgreSQL, MySQL, MongoDB
+
+**Cloud & DevOps**
+
+* AWS, Docker, Git, GitHub Actions, CI/CD
+
+###  Currently Learning
+
+Graph Neural Networks (GNNs), Advanced Machine Learning, System Design, Cloud Technologies
+
+📫 Reach me:
+
+* LinkedIn: [www.linkedin.com/in/m-bhupathi-sanjay-405378252](http://www.linkedin.com/in/m-bhupathi-sanjay-405378252)
+* Email: [bupathisan3@gmail.com](mailto:bupathisan3@gmail.com)
